@@ -14,6 +14,7 @@ This project is a **real-time video analytics system** that:
 ---
 
 ## 🧱 Architecture Diagram
+<img width="1082" height="739" alt="Screenshot 2025-07-18 003242" src="https://github.com/user-attachments/assets/d56e8ba0-e962-40fc-9890-97f63b16b503" />
 
 
 ## 🧱 Architecture Components
